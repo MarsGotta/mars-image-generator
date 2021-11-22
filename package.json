@@ -11,5 +11,10 @@
     "generatore"
   ],
   "author": "Mars Gotta",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.4.9",
+    "canvas": "^2.8.0",
+    "node-fetch": "^2.0.0"
+  }
 }
